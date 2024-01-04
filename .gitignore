@@ -1,0 +1,21 @@
+/media-app-backend/node_modules
+/media-app-frontend/node_modules
+./media-app-frontend/.pnp
+/media-app-frontend/.pnp.js
+
+# testing
+/media-app-frontend/coverage
+
+# production
+/media-app-frontend/build
+
+# misc
+/media-app-frontend/.DS_Store
+/media-app-frontend/.env.local
+/media-app-frontend/.env.development.local
+/media-app-frontend/.env.test.local
+/media-app-frontend/.env.production.local
+
+/media-app-frontend/npm-debug.log*
+/media-app-frontend/yarn-debug.log*
+/media-app-frontend/yarn-error.log*
